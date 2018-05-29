@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1063299337749",
+    "firebase_url": "https://asist-app-14075.firebaseio.com",
+    "project_id": "asist-app-14075",
+    "storage_bucket": "asist-app-14075.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063299337749:android:5c2bb77667f8589e",
+        "android_client_info": {
+          "package_name": "com.dreadroots.prototipo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063299337749-e9meo7l8i4b7ntg7oquhmobhi2frdf7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dreadroots.prototipo1",
+            "certificate_hash": "f64fa20f95e33ca536cbe3866f8226286022566b"
+          }
+        },
+        {
+          "client_id": "1063299337749-n9g5cbf33ali0dsn0h7p7q0b4pdsbv1q.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1063299337749-n9g5cbf33ali0dsn0h7p7q0b4pdsbv1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhwXIxkUXJ7b2L-GmhqigY-SUoF34RQ6o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063299337749-n9g5cbf33ali0dsn0h7p7q0b4pdsbv1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
